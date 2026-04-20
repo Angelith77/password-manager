@@ -38,4 +38,26 @@ Make sure Python is installed, then run:
 ### Version 1:
 ```bash
 python version1.py
+```
+### Version 1:
+```bash
+python version2.py
+```
+Project Structure:
+version1.py   → Basic password manager (single user)
+version2.py   → Advanced multi-user system
+users.txt     → Stores registered users (auto-created)
+*.txt         → Stores user accounts per user (auto-created)
+------------------------------------------------------------
+Security Features:
+*Password hashing using SHA-256
+*No plain-text password storage
+*Separate files for each user
+--------------------------------
+Author
 
+Developed by: Angelith
+--------------------------------
+⭐Notes:
+
+This project is for learning purposes and demonstrates Python fundamentals, file handling, and basic security concepts.
