@@ -39,7 +39,7 @@ Make sure Python is installed, then run:
 ```bash
 python version1.py
 ```
-### Version 1:
+### Version 2:
 ```bash
 python version2.py
 ```
